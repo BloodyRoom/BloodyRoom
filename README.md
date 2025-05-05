@@ -2,7 +2,7 @@
 <h3 align="center">A fullstack developer from Ukraine</h3>
 
 <p align="center">
-  My name is Maksym, and I’m a passionate Fullstack Developer with a love for building useful, aesthetic, and performant applications :)
+  My name is Maksym, and I’m a Fullstack Developer with a love for building useful, aesthetic, and performant applications :)
 </p>
 
 ---
