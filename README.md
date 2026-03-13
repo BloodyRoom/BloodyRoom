@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BloodyRoom&show_icons=true&theme=radical" alt="Maksym's GitHub stats" />
+  <img width=440 src="https://github-readme-stats.vercel.app/api?username=BloodyRoom&show_icons=true&theme=radical" alt="Maksym's GitHub stats" />
   <img width=440 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=BloodyRoom&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=440" alt="streak stats"/>
 </p>
 
